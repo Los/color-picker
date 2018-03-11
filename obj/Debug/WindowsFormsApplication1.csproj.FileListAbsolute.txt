@@ -1,0 +1,10 @@
+c:\users\lós\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\lós\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\lós\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Lós\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.about.resources
+C:\Users\Lós\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SACpicker.exe.config
+C:\Users\Lós\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SACpicker.exe
+C:\Users\Lós\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SACpicker.pdb
+C:\Users\Lós\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\SACpicker.Properties.Resources.resources
+C:\Users\Lós\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\SACpicker.exe
+C:\Users\Lós\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\SACpicker.pdb
